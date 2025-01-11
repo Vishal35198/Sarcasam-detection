@@ -1,11 +1,3 @@
-I'll review the contents of your uploaded file and generate a GitHub README based on it. Let's take a look at the file now.
-
-The notebook appears to be focused on sarcasm detection, and it includes a link to run the notebook on Google Colab. It has around 30 code cells.
-
-Here's a draft of the GitHub README for your project:
-
----
-
 # Sarcasm Detection
 
 <a href="https://colab.research.google.com/github/Vishal35198/Sarcasam-detection/blob/main/Sarcasm.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
